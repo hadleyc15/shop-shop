@@ -28,8 +28,6 @@ useEffect(() => {
   saveOrder();
 }, [addOrder]);
 
-
-
     return (
       <div>
         <Jumbotron>
