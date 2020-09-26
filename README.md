@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # <div align="center">**Shop Shop with Redux**</div>
 
 ## **Project Description**
-> Your challenge this week is to refactor the e-commerce platform from the module project so that it uses Redux (Links to an external site.). You won’t need to make sweeping changes to the code, but you will need to read through the Redux documentation on your own to find the information you need. 
+> Your challenge this week is to refactor the e-commerce platform from the module project so that it uses Redux. You won’t need to make sweeping changes to the code, but you will need to read through the Redux documentation on your own to find the information you need. 
 
 ## **Table of Contents** 
 * [Project Description](#project-description)  
