@@ -57,14 +57,14 @@ This application was developed with the following application structures:
 
 ## **Screenshots**
 
-### <div align="center">**...**</div>
-<img src="/assets/images/Screenshot%20().png" />
+### <div align="center">**Shop-Shop Home Page**</div>
+<img src="/assets/images/Screenshot%20(136).png" />
 
-### <div align="center">**...**</div>
-<img src="/assets/images/Screenshot%20().png" />
+### <div align="center">**Adding an item to the cart**</div>
+<img src="/assets/images/Screenshot%20(137).png" />
 
-### <div align="center">**...**</div>
-<img src="/assets/images/Screenshot%20().png" />
+### <div align="center">**Checkout via Stripe**</div>
+<img src="/assets/images/Screenshot%20(138).png" />
 
 
 ## **Questions**
